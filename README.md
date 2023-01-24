@@ -3,9 +3,9 @@
 ### File Smuggling Builder
 This is a self-contained HTML app, handy, supports Windows, Mac, Linux and mobile.
 
-It adopts HTML smuggling technique, which leverages HTML 5 and JavaScript to embed encoded file into HTML file, when user run the JavaScript code in browser, it decodes the embedded payload, which, in turn, assembles the target file on the destination device.
+It adopts HTML smuggling technique, which leverages HTML5 and JavaScript to embed encoded file into HTML file, when user run the JavaScript code in browser, it decodes the embedded payload, which, in turn, assembles the target file on the destination device.
 
-You can convert target file to HTML encoded format, with password protected, then use it in email attachment or file download from web.
+You can build your file to HTML encoded format, with password protected, then use it as email attachment or file download from web.
 
 Download filesmugglingbuilder.html from this repository or try it online https://eddiechu.github.io/filesmugglingbuilder.html
 
@@ -13,14 +13,14 @@ Download filesmugglingbuilder.html from this repository or try it online https:/
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen2.PNG?raw=true)
 #
 ###### 1b. Open `putty.exe.html`, then retrieve `putty.exe`
-###### Download putty.exe.html from this repository or try it online https://eddiechu.github.io/putty.exe.html
+###### Download putty.exe.html from this repository or try it online https://eddiechu.github.io/putty.exe.html (password is password)
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen3.PNG?raw=true)
 #
 ###### 2a. Choose target file `Sample Document.docx`, then generate `Sample Document.docx.html`
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen4.PNG?raw=true)
 #
 ###### 2b. Open `Sample Document.docx.html`, then retrieve `Sample Document.docx`
-###### Download Sample Document.docx.html from this repository or try it online https://eddiechu.github.io/Sample_Document.docx.html
+###### Download Sample Document.docx.html from this repository or try it online https://eddiechu.github.io/Sample_Document.docx.html (password is password)
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen5.PNG?raw=true)
 
 ### HTML Smuggling Code
@@ -44,6 +44,7 @@ It invoking the click action from within the Javascript, we mimic the user click
 
 Due to encoded patterns, no malicious content passes through the network, bypassing email scanners, proxies and sandboxes.
 
+Mitre
 
 https://attack.mitre.org/techniques/T1027/006/
 
