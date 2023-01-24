@@ -14,5 +14,14 @@ When working with Javascript, the file to be downloaded can be created by using 
 It invoking the click action from within the Javascript, we mimic the user clicking on the link and starting the file download
 
 ``var url = window.URL.createObjectURL(bobject);``
+
 ``hiddenobject.href = url;``
+
 ``hiddenobject.click();``
+
+
+
+
+#html smuggling
+#payload
+#javascript
