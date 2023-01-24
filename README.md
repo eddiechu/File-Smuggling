@@ -5,6 +5,8 @@ It adopts HTML smuggling technique, which leverages HTML 5 and JavaScript to emb
 
 You can convert target file to HTML encoded format, with password protected, then use it in email attachment or file download from web.
 
+### About HTML Smuggling
+
 ###### Use of JavaScript Blob
 When working with Javascript, the file can be created by using a Javascript Blob. A Blob is a representation of payload.
 ```
