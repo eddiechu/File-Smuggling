@@ -17,7 +17,7 @@ You can convert target file to HTML encoded format, with password protected, the
 ###### 2b. Open `Sample Document.docx.html`, then retrieve `Sample Document.docx`
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen5.PNG?raw=true)
 
-### About HTML Smuggling
+### HTML Smuggling Code
 
 ###### Use of JavaScript Blob
 When working with Javascript, the file can be created by using a Javascript Blob. A Blob is a representation of payload.
