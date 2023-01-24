@@ -11,12 +11,14 @@ You can convert target file to HTML encoded format, with password protected, the
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen2.PNG?raw=true)
 #
 ###### 1b. Open `putty.exe.html`, then retrieve `putty.exe`
+###### https://eddiechu.github.io/putty.exe.html
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen3.PNG?raw=true)
 #
 ###### 2a. Choose target file `Sample Document.docx`, then generate `Sample Document.docx.html`
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen4.PNG?raw=true)
 #
 ###### 2b. Open `Sample Document.docx.html`, then retrieve `Sample Document.docx`
+###### https://eddiechu.github.io/Sample_Document.docx.html
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen5.PNG?raw=true)
 
 ### HTML Smuggling Code
