@@ -1,6 +1,6 @@
 # HTML smuggling is not an evil, it can be useful
 
-## File Smuggling Builder
+### File Smuggling Builder
 It adopts HTML smuggling technique, which leverages HTML 5 and JavaScript to embed target file (base64 encoded) into HTML file, when user run the JavaScript code in browser, it decodes the embedded payload, which, in turn, assembles the target file on the destination device.
 
 Due to encoded patterns, no malicious content passes through the network, bypassing email scanners, proxies and sandboxes.
