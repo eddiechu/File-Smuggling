@@ -9,6 +9,8 @@ You can build your file to HTML encoded format, with password protected, then us
 
 Download filesmugglingbuilder.html from this repository or try it online https://eddiechu.github.io/filesmugglingbuilder.html
 
+Example
+
 ###### 1a. Choose target file `putty.exe`, then generate `putty.exe.html`
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen2.PNG?raw=true)
 #
@@ -23,7 +25,7 @@ Download filesmugglingbuilder.html from this repository or try it online https:/
 ###### Download Sample Document.docx.html from this repository or try it online https://eddiechu.github.io/Sample_Document.docx.html (password is password)
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen5.PNG?raw=true)
 
-### HTML Smuggling Code
+### HTML Smuggling Tachnique
 
 ###### Use of JavaScript Blob
 When working with Javascript, the file can be created by using a Javascript Blob. A Blob is a representation of payload.
@@ -42,7 +44,7 @@ It invoking the click action from within the Javascript, we mimic the user click
   hiddenobject.click();
 ```
 
-Due to encoded patterns, no malicious content passes through the network, bypassing email scanners, proxies and sandboxes.
+Due to encoded patterns, no original file content passes through the network, bypassing email scanners, proxies and sandboxes.
 
 Mitre
 
