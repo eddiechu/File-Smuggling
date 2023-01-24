@@ -9,8 +9,19 @@ Due to encoded patterns, no malicious content passes through the network, bypass
 When working with Javascript, the file can be created by using a Javascript Blob. A Blob is a representation of payload.
 
 ```
-var bobject = new Blob([payload], {type: 'octet/stream'});
+  var hiddenobject = document.createElement('a');
+  hiddenobject.download = targetfilename;
 ```
+
+###### The anchor tag and a file’s "download" attribute
+```
+var url = window.URL.createObjectURL(bobject);
+
+hiddenobject.href = url;
+
+hiddenobject.click();
+```
+
 
 ###### Using the URL.createObjectURL
 It invoking the click action from within the Javascript, we mimic the user clicking on the link and starting the file download
