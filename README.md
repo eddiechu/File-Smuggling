@@ -27,7 +27,7 @@ It invoking the click action from within the Javascript, we mimic the user click
 Due to encoded patterns, no malicious content passes through the network, bypassing email scanners, proxies and sandboxes.
 
 
-
+https://attack.mitre.org/techniques/T1027/006/
 
 #html smuggling
 #payload
