@@ -7,6 +7,8 @@ It adopts HTML smuggling technique, which leverages HTML 5 and JavaScript to emb
 
 You can convert target file to HTML encoded format, with password protected, then use it in email attachment or file download from web.
 
+Download filesmugglingbuilder.html from this repository or try it online https://eddiechu.github.io/filesmugglingbuilder.html
+
 ###### 1a. Choose target file `putty.exe`, then generate `putty.exe.html`
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen2.PNG?raw=true)
 #
