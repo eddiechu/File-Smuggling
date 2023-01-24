@@ -14,19 +14,14 @@ When working with Javascript, the file can be created by using a Javascript Blob
 ```
 
 
-###### The anchor tag and a file’s "download" attribute
-```
-  var hiddenobject = document.createElement('a');
-  hiddenobject.download = targetfilename;
-```
-
-
 ###### Using the URL.createObjectURL
 It invoking the click action from within the Javascript, we mimic the user clicking on the link and starting the file download
 
 ```
+  var hiddenobject = document.createElement('a');
   var url = window.URL.createObjectURL(bobject);
   hiddenobject.href = url;
+  hiddenobject.download = targetfilename;
   hiddenobject.click();
 ```
 
