@@ -1,6 +1,8 @@
 # HTML smuggling is not an evil, it can be useful
 
 ### File Smuggling Builder
+This is a self-contained HTML app, supports Windows, Mac, Linux and mobile.
+
 It adopts HTML smuggling technique, which leverages HTML 5 and JavaScript to embed encoded file into HTML file, when user run the JavaScript code in browser, it decodes the embedded payload, which, in turn, assembles the target file on the destination device.
 
 You can convert target file to HTML encoded format, with password protected, then use it in email attachment or file download from web.
