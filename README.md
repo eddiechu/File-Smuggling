@@ -11,7 +11,7 @@ You can convert your file to HTML encoded format, with password protected, then 
 
 Download filesmugglingbuilder.html from this repository or try it online https://eddiechu.github.io/filesmugglingbuilder.html
 
-Example
+### Example
 
 ###### 1a. Choose target file `putty.exe`, then generate `putty.exe.html`
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen2.PNG?raw=true)
