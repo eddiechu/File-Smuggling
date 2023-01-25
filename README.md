@@ -7,7 +7,7 @@ It adopts HTML smuggling technique, which leverages HTML5 and JavaScript to embe
 
 You can convert your file to HTML encoded format, with password protected, then use it as email attachment or file download from web.
 
-![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/filesmugglingbuilder.gif?raw=true)
+![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/filesmugglingbuilder2.gif?raw=true)
 
 Download filesmugglingbuilder.html from this repository or try it online https://eddiechu.github.io/filesmugglingbuilder.html
 
