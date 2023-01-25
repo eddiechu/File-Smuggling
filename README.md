@@ -51,6 +51,7 @@ Due to encoded patterns, no original file content passes through the network, by
 As security admin, if you don't want user to bypass, you may fine tune the dection rule based on the hints above.
 
 Reference
+
 https://attack.mitre.org/techniques/T1027/006/
 
 #html smuggling
