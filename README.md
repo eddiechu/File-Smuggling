@@ -9,7 +9,12 @@ You can convert your file to HTML encoded format, with password protected, then 
 
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/filesmugglingbuilder2.gif?raw=true)
 
-Download filesmugglingbuilder.html from this repository or try it online https://eddiechu.github.io/filesmugglingbuilder.html
+Download filesmugglingbuilder.html from this repository or try it online
+
+https://eddiechu.github.io/filesmugglingbuilder.html
+
+https://securitylab.pages.dev/filesmugglingbuilder
+
 
 ### Example
 
@@ -17,14 +22,24 @@ Download filesmugglingbuilder.html from this repository or try it online https:/
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen2.PNG?raw=true)
 #
 ###### 1b. Open `putty.exe.html`, then retrieve `putty.exe`
-###### Download putty.exe.html from this repository or try it online https://eddiechu.github.io/putty.exe.html (password is password)
+###### Download putty.exe.html from this repository or try it online
+
+https://eddiechu.github.io/putty.exe.html (password is password)
+
+https://securitylab.pages.dev/putty.exe (password is password)
+
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen3.PNG?raw=true)
 #
 ###### 2a. Choose target file `Sample Document.docx`, then generate `Sample Document.docx.html`
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen4.PNG?raw=true)
 #
 ###### 2b. Open `Sample Document.docx.html`, then retrieve `Sample Document.docx`
-###### Download Sample Document.docx.html from this repository or try it online https://eddiechu.github.io/Sample_Document.docx.html (password is password)
+###### Download Sample Document.docx.html from this repository or try it online
+
+https://eddiechu.github.io/Sample_Document.docx.html (password is password)
+
+https://securitylab.pages.dev/Sample%20Document.docx (password is password)
+
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen5.PNG?raw=true)
 
 ### HTML Smuggling Tachnique
