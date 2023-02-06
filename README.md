@@ -72,3 +72,8 @@ https://attack.mitre.org/techniques/T1027/006/
 #html smuggling
 #payload
 #javascript
+#pentest
+#poc
+#html
+#smuggling
+#tool
