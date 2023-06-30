@@ -13,7 +13,6 @@ Download filesmugglingbuilder.html from this repository or try it online
 
 https://eddiechu.github.io/filesmugglingbuilder.html
 
-https://securitylab.pages.dev/filesmugglingbuilder
 
 
 ### Example
@@ -26,7 +25,6 @@ https://securitylab.pages.dev/filesmugglingbuilder
 
 https://eddiechu.github.io/putty.exe.html (password is password)
 
-https://securitylab.pages.dev/putty.exe (password is password)
 
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen3.PNG?raw=true)
 #
@@ -38,7 +36,6 @@ https://securitylab.pages.dev/putty.exe (password is password)
 
 https://eddiechu.github.io/Sample_Document.docx.html (password is password)
 
-https://securitylab.pages.dev/Sample%20Document.docx (password is password)
 
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen5.PNG?raw=true)
 
