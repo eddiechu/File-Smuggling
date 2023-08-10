@@ -23,7 +23,7 @@ https://eddiechu.github.io/filesmugglingbuilder.html
 ###### 1b. Open `putty.exe.html`, then retrieve `putty.exe`
 ###### Download putty.exe.html from this repository or try it online
 
-https://eddiechu.github.io/putty.exe.html (password is password)
+https://eddiechu.github.io/putty.html (password is password)
 
 
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen3.PNG?raw=true)
@@ -34,7 +34,7 @@ https://eddiechu.github.io/putty.exe.html (password is password)
 ###### 2b. Open `Sample Document.docx.html`, then retrieve `Sample Document.docx`
 ###### Download Sample Document.docx.html from this repository or try it online
 
-https://eddiechu.github.io/Sample_Document.docx.html (password is password)
+https://eddiechu.github.io/sampledocx.html (password is password)
 
 
 ![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen5.PNG?raw=true)
